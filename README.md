@@ -2,4 +2,4 @@
 Oma's Backbuch
 ==============
 
-Some recipes from the cook book of my grandma.
+The recipes from the cook book of my grandma.
