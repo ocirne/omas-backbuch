@@ -1,2 +1,3 @@
-markdown: maruku
-auto: true
+
+markdown: kramdown
+baseurl: /marga

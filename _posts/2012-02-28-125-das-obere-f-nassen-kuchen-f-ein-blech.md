@@ -1,6 +1,6 @@
 ---
 layout: default
-title: das obere f. nassen Kuchen f. ein Blech:
+title: das obere f. nassen Kuchen f. ein Blech
 number: 125
 ---
 
